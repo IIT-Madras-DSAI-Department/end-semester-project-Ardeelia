@@ -1,6 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R05VM8Rg)
 # IIT-Madras-DA2401-Machine-Learning-Lab-End-Semester-Project
 
+To test the code in main.py replace XVal with the Xtest dataset
+
+
 ## 📌 Purpose of this Template
 
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
